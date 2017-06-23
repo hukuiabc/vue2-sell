@@ -1,7 +1,7 @@
 {
   "name": "sell",
   "version": "1.0.0",
-  "description": "vue sell",
+  "description": "vue2 sell project",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
