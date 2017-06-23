@@ -2,7 +2,6 @@
   "name": "sell",
   "version": "1.0.0",
   "description": "vue sell",
-  "author": "hukuiabc <hukuiabc@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
